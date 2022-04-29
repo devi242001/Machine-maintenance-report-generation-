@@ -10,3 +10,5 @@ This is report generation in thingspeak.
 
 This is our report in excel sheet.
 
+<img src="https://user-images.githubusercontent.com/79742924/165969803-b5320cf5-1df7-49cf-b8cd-75ed48143860.png" width="500">
+
